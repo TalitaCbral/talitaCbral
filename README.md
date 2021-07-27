@@ -7,3 +7,6 @@
 
 **Veja como é o projeto jogo do humor:**
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/82914088/126665021-af43c6c0-e264-4408-862f-ae7b313a5629.gif)
+
+**Veja como é o projeto do Portifólio:**
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82914088/127234401-0502467f-5dcd-4ddc-8c61-4beb44adf475.gif)

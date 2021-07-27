@@ -1,6 +1,6 @@
 # atividadesT3C5
 - [x] **Jogo do humor!**
-- [x] ** portifólio Website!**
+- [x] **Portifólio!**
 - [ ] _loading..._
 - [ ] _loading..._
 - [ ] _loading..._

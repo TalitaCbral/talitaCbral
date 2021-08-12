@@ -1,6 +1,6 @@
 # Oi eu sou a Talita :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=dracula)
 
 <div style="display: inline_block">
 

@@ -25,4 +25,4 @@
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/talitacabral___/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/talita-santana-22ba27175/)
 
-![Snake animation](https://github.com/TalitaCbral/TalitaCbral/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TalitaCbral/talitaCbral/blob/output/github-contribution-grid-snake.svg)

@@ -1,13 +1,4 @@
-# atividadesT3C5
-- [x] **Jogo do humor!**
-- [x] **Portifólio!**
-- [x] **Projeto Final - Catálogo**
-
-**Veja como é o projeto jogo do humor:**
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/82914088/126665021-af43c6c0-e264-4408-862f-ae7b313a5629.gif)
-
-**Veja como é o projeto do Portifólio:**
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82914088/127234401-0502467f-5dcd-4ddc-8c61-4beb44adf475.gif)
+# Oi eu sou a Talita :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=highcontrast)
 

@@ -1,4 +1,6 @@
-# Oi eu sou a Talita :)
+<img src="https://github.com/TalitaCbral/talitaCbral/blob/main/img/hello.gif" width="300px">
+
+# Bem Vindos <img src="https://github.com/TalitaCbral/talitaCbral//blob/main/img/Hi.gif" width="50px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=dracula)
 

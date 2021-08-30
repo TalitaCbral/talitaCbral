@@ -17,5 +17,6 @@
 <hr>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elisama-santana-22ba27175/)
+[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:elisamatalitacabralsantana@gmail.com)
 
 ![Snake animation](https://github.com/TalitaCbral/talitaCbral/blob/output/github-contribution-grid-snake.svg)

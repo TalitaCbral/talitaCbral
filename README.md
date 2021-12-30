@@ -1,8 +1,6 @@
-<img src="https://github.com/TalitaCbral/talitaCbral/blob/main/img/hello.gif" width="300px">
+<img src="https://github.com/TalitaCbral/talitaCbral/blob/main/img/hello.gif" width="300px"> 
 
-# Bem Vindos 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalitaCbral&show_icons=true&theme=panda) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaCbral&layout=compact&theme=panda)
 
 <div style="display: inline_block">
 

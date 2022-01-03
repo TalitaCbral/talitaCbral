@@ -4,7 +4,7 @@
  </div>
  
  <div>
-  <h5 align="center">💜 Oi Tudo bem? Me chamo Talita Cabral! </a>💜</h5>
+  <h5 align="center">💙 Oi Tudo bem? Me chamo Talita Cabral! 💙</h5>
  
 <div align="center">
   <a href="https://github.com/TalitaCbral">
